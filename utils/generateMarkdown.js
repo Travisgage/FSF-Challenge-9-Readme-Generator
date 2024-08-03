@@ -25,7 +25,7 @@ function renderLicenseBadge(license) {
       break; 
 
     default:
-      console.log("Please select a license for your project, or choose none.");
+      console.log("Please select a license for your project, or choose none if applicable.");
   }
   return licenseBadge;
 }
