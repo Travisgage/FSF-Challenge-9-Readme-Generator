@@ -38,7 +38,7 @@ License badges from [lukas-h](https://gist.github.com/lukas-h/2a5d00690736b4c3a7
 N/A
 
 ## Questions
-Contact me for any questions regarding this project:
+Contact me with questions regarding this project:
 
 GitHub: [Travis Phillips](https://github.com/travisgage)
 
