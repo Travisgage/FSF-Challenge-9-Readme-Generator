@@ -40,7 +40,7 @@ N/A
 ## Questions
 Contact me for any questions regarding this project:
 
-GitHub: [lindsay-terry](https://github.com/lindsay-terry)
+GitHub: [Travis Phillips](https://github.com/travisgage)
 
-Email: lindsaytee66@gmail.com
+Email: travisgagephillips@gmail.com
 
