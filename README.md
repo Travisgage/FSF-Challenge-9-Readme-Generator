@@ -1,3 +1,4 @@
+FSF-Challenge 9: Readme Generator with Node.js
 
 # README-generator
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -20,7 +21,7 @@ With node.js already installed on your local machine, run npm i or npm install i
 ## Usage
 To use the application, you will need to have node installed.  Clone the repository and navigate to the directory in your CLI and run npm i to install dependencies.  Once this is complete, the application can be invoked with node index.js.  The user will then be guided through a series of prompts to enter the necessary information for your project -- be sure to provide an answer to each prompt, or enter N/A if applicable. Following this, the application will generate the README for your project, saved as eneratedREADME.md by default in your directory.  If any mistakes occurred or if changes need to be made, the process can be repeated and the old file will be overwritten.
 
-[Recording of application demonstration](https://drive.google.com/file/d/1cK37zw-G8KeAT_PkbeX6qDoaoLui4CAw/view?usp=drive_link)
+[Video Demonstration](https://drive.google.com/file/d/1cK37zw-G8KeAT_PkbeX6qDoaoLui4CAw/view?usp=drive_link)
 
 ![Screenshot of application running in console](./assets/images/Sample%20Readme%20CLI.png)
 ![Screenshot of generated README](./assets/images/Sample%20Readme%20markdown.png)
